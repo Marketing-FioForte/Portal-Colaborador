@@ -1,0 +1,5 @@
+{
+  "name": "Portal do Colaborador - Grupo FioForte",
+  "description": "Mobile-first portal for employees to access trainings, health documents, and HR files via QR Code.",
+  "requestFramePermissions": []
+}
